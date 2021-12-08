@@ -26,7 +26,7 @@ body {
     justify-content: start;
     width: 60%;
     height: 100vh;
-    margin-top: -13rem;
+    margin-top: -10rem;
 }
 
 .instagram-phone {
@@ -172,3 +172,34 @@ body {
     margin: 5px;
 }
 
+/* media queries */
+
+@media (max-width: 1024px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+
+    .instagram-footer {
+        position: relative;
+    }
+    
+}
+
+@media (max-width: 650px) {
+    .instagram-wrapper {
+        width: 90%;
+        margin-top: -2rem;
+    }
+
+    .instagram-phone {
+        display: none;
+    }
+
+    .instagram-continue {
+        width: 100%;
+    }
+
+    .group {
+        border: 1px solid rgba(211, 211, 211, 0.672);
+    }
+}
