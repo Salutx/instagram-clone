@@ -1,4 +1,4 @@
-# ![coffee](https://github.githubassets.com/images/icons/emoji/unicode/2615.png) Instagram - Home Page
+## ![coffee](https://github.githubassets.com/images/icons/emoji/unicode/2615.png) Instagram - Home Page
 
 Welcome to the project.
 
